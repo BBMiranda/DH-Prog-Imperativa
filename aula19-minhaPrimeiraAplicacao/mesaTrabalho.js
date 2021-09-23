@@ -1,5 +1,3 @@
-/*Nomes: Bruno B. Miranda, Everton Garcia, Jaiana Santos, Thomas Matisi*/
-
 /* MAIOR ALTURA */
 const dados = require('./dados');
 
